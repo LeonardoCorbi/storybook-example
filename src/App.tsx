@@ -1,7 +1,9 @@
+import { ButtonContained } from './design/components/Buttons';
+
 export default function App() {
 	return (
 		<main>
-			<h1>Hello world</h1>
+			<ButtonContained icon="gift">Button</ButtonContained>
 		</main>
 	);
 }

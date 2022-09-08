@@ -1,0 +1,4 @@
+node_modules/
+cypress/
+*.cy.ts
+cypress.config.ts
